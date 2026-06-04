@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/Jishnu017/DSA-Practice/tree/master/2211-count-collisions-on-a-road) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Jishnu017/DSA-Practice/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Jishnu017/DSA-Practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
