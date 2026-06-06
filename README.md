@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Jishnu017/DSA-Practice/tree/master/0198-house-robber) |
+| [0397-integer-replacement](https://github.com/Jishnu017/DSA-Practice/tree/master/0397-integer-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Jishnu017/DSA-Practice/tree/master/0134-gas-station) |
+| [0397-integer-replacement](https://github.com/Jishnu017/DSA-Practice/tree/master/0397-integer-replacement) |
 | [0611-valid-triangle-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jishnu017/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Jishnu017/DSA-Practice/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Jishnu017/DSA-Practice/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/Jishnu017/DSA-Practice/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
