@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jishnu017/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Jishnu017/DSA-Practice/tree/master/0624-maximum-distance-in-arrays) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jishnu017/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/Jishnu017/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jishnu017/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jishnu017/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Jishnu017/DSA-Practice/tree/master/0198-house-robber) |
 | [0397-integer-replacement](https://github.com/Jishnu017/DSA-Practice/tree/master/0397-integer-replacement) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jishnu017/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jishnu017/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Jishnu017/DSA-Practice/tree/master/0624-maximum-distance-in-arrays) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jishnu017/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jishnu017/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
