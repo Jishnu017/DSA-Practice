@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Jishnu017/DSA-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Jishnu017/DSA-Practice/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0143-reorder-list) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Jishnu017/DSA-Practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Jishnu017/DSA-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0143-reorder-list) |
