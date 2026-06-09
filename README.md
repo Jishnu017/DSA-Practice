@@ -79,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Jishnu017/DSA-Practice/tree/master/0050-powx-n) |
 | [0781-rabbits-in-forest](https://github.com/Jishnu017/DSA-Practice/tree/master/0781-rabbits-in-forest) |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Jishnu017/DSA-Practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Jishnu017/DSA-Practice/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0143-reorder-list) |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Jishnu017/DSA-Practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Bit Manipulation
 |  |
 | ------- |
