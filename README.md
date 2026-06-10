@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Jishnu017/DSA-Practice/tree/master/0006-zigzag-conversion) |
 | [2211-count-collisions-on-a-road](https://github.com/Jishnu017/DSA-Practice/tree/master/2211-count-collisions-on-a-road) |
 ## Math
 |  |
