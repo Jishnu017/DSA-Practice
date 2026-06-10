@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0143-reorder-list) |
+| [0443-string-compression](https://github.com/Jishnu017/DSA-Practice/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jishnu017/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jishnu017/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Jishnu017/DSA-Practice/tree/master/0006-zigzag-conversion) |
+| [0443-string-compression](https://github.com/Jishnu017/DSA-Practice/tree/master/0443-string-compression) |
 | [2211-count-collisions-on-a-road](https://github.com/Jishnu017/DSA-Practice/tree/master/2211-count-collisions-on-a-road) |
 ## Math
 |  |
