@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Jishnu017/DSA-Practice/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0948-bag-of-tokens](https://github.com/Jishnu017/DSA-Practice/tree/master/0948-bag-of-tokens) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Jishnu017/DSA-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jishnu017/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2938-separate-black-and-white-balls](https://github.com/Jishnu017/DSA-Practice/tree/master/2938-separate-black-and-white-balls) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jishnu017/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jishnu017/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0143-reorder-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0143-reorder-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Jishnu017/DSA-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
