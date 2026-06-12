@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jishnu017/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Jishnu017/DSA-Practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Jishnu017/DSA-Practice/tree/master/0135-candy) |
+| [0162-find-peak-element](https://github.com/Jishnu017/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Jishnu017/DSA-Practice/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Jishnu017/DSA-Practice/tree/master/0221-maximal-square) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jishnu017/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Jishnu017/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0611-valid-triangle-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jishnu017/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
