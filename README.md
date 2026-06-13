@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jishnu017/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Jishnu017/DSA-Practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Jishnu017/DSA-Practice/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Jishnu017/DSA-Practice/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Jishnu017/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Jishnu017/DSA-Practice/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Jishnu017/DSA-Practice/tree/master/0221-maximal-square) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jishnu017/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0139-word-break](https://github.com/Jishnu017/DSA-Practice/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Jishnu017/DSA-Practice/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Jishnu017/DSA-Practice/tree/master/0221-maximal-square) |
 | [0397-integer-replacement](https://github.com/Jishnu017/DSA-Practice/tree/master/0397-integer-replacement) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Jishnu017/DSA-Practice/tree/master/0006-zigzag-conversion) |
+| [0139-word-break](https://github.com/Jishnu017/DSA-Practice/tree/master/0139-word-break) |
 | [0443-string-compression](https://github.com/Jishnu017/DSA-Practice/tree/master/0443-string-compression) |
 | [2211-count-collisions-on-a-road](https://github.com/Jishnu017/DSA-Practice/tree/master/2211-count-collisions-on-a-road) |
 | [2938-separate-black-and-white-balls](https://github.com/Jishnu017/DSA-Practice/tree/master/2938-separate-black-and-white-balls) |
@@ -111,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Jishnu017/DSA-Practice/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/Jishnu017/DSA-Practice/tree/master/0397-integer-replacement) |
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Jishnu017/DSA-Practice/tree/master/0139-word-break) |
 | [0781-rabbits-in-forest](https://github.com/Jishnu017/DSA-Practice/tree/master/0781-rabbits-in-forest) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jishnu017/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Tree
@@ -152,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jishnu017/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Jishnu017/DSA-Practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
