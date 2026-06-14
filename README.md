@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0148-sort-list) |
 | [0443-string-compression](https://github.com/Jishnu017/DSA-Practice/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0948-bag-of-tokens](https://github.com/Jishnu017/DSA-Practice/tree/master/0948-bag-of-tokens) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0148-sort-list) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jishnu017/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0948-bag-of-tokens](https://github.com/Jishnu017/DSA-Practice/tree/master/0948-bag-of-tokens) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jishnu017/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0143-reorder-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0148-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Jishnu017/DSA-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Matrix
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jishnu017/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -163,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Jishnu017/DSA-Practice/tree/master/0139-word-break) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
