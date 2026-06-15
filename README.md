@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jishnu017/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Jishnu017/DSA-Practice/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0143-reorder-list) |
+| [0173-binary-search-tree-iterator](https://github.com/Jishnu017/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0735-asteroid-collision](https://github.com/Jishnu017/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/Jishnu017/DSA-Practice/tree/master/2211-count-collisions-on-a-road) |
 ## Simulation
@@ -131,11 +132,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jishnu017/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Jishnu017/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jishnu017/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jishnu017/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Jishnu017/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jishnu017/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Monotonic Stack
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jishnu017/DSA-Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Jishnu017/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Trie
 |  |
 | ------- |
@@ -173,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Jishnu017/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Jishnu017/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
