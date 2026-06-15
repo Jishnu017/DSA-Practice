@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0948-bag-of-tokens](https://github.com/Jishnu017/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Jishnu017/DSA-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jishnu017/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jishnu017/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2938-separate-black-and-white-balls](https://github.com/Jishnu017/DSA-Practice/tree/master/2938-separate-black-and-white-balls) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jishnu017/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0148-sort-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Jishnu017/DSA-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jishnu017/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
