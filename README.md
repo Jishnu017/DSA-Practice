@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Jishnu017/DSA-Practice/tree/master/0221-maximal-square) |
 | [0397-integer-replacement](https://github.com/Jishnu017/DSA-Practice/tree/master/0397-integer-replacement) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jishnu017/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Jishnu017/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
