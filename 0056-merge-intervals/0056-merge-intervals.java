@@ -15,8 +15,8 @@ class Solution {
         int s=ans.size();
         int[][] res=new int[s][2];
         for(int i=0;i<s;i++){
-                res[i][0]=ans.get(i)[0];
-                res[i][1]=ans.get(i)[1];
+                res[i][0]=(ans.get(i)[0]);
+                res[i][1]=(ans.get(i)[1]);
         }
         return res;
     }
