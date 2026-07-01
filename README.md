@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jishnu017/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jishnu017/DSA-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jishnu017/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Jishnu017/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Jishnu017/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0611-valid-triangle-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jishnu017/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Jishnu017/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0948-bag-of-tokens](https://github.com/Jishnu017/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jishnu017/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Jishnu017/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 ## Stack
 |  |
 | ------- |
@@ -209,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jishnu017/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Jishnu017/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->
