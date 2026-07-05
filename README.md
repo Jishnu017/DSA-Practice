@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Jishnu017/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Jishnu017/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Jishnu017/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jishnu017/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/Jishnu017/DSA-Practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Jishnu017/DSA-Practice/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Jishnu017/DSA-Practice/tree/master/0139-word-break) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jishnu017/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Jishnu017/DSA-Practice/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jishnu017/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Jishnu017/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/Jishnu017/DSA-Practice/tree/master/0394-decode-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jishnu017/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jishnu017/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 ## Linked List
 |  |
 | ------- |
