@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Jishnu017/DSA-Practice/tree/master/0006-zigzag-conversion) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/Jishnu017/DSA-Practice/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/Jishnu017/DSA-Practice/tree/master/0139-word-break) |
 | [0394-decode-string](https://github.com/Jishnu017/DSA-Practice/tree/master/0394-decode-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/Jishnu017/DSA-Practice/tree/master/0139-word-break) |
 | [0781-rabbits-in-forest](https://github.com/Jishnu017/DSA-Practice/tree/master/0781-rabbits-in-forest) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jishnu017/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Jishnu017/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jishnu017/DSA-Practice/tree/master/0040-combination-sum-ii) |
 ## Sliding Window
