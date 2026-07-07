@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Jishnu017/DSA-Practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jishnu017/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Jishnu017/DSA-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Jishnu017/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/Jishnu017/DSA-Practice/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Jishnu017/DSA-Practice/tree/master/0735-asteroid-collision) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Jishnu017/DSA-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Jishnu017/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
