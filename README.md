@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jishnu017/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Jishnu017/DSA-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Jishnu017/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/Jishnu017/DSA-Practice/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Jishnu017/DSA-Practice/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Jishnu017/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/Jishnu017/DSA-Practice/tree/master/2211-count-collisions-on-a-road) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/Jishnu017/DSA-Practice/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/Jishnu017/DSA-Practice/tree/master/0139-word-break) |
+| [0224-basic-calculator](https://github.com/Jishnu017/DSA-Practice/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Jishnu017/DSA-Practice/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Jishnu017/DSA-Practice/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jishnu017/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Jishnu017/DSA-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Jishnu017/DSA-Practice/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jishnu017/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Jishnu017/DSA-Practice/tree/master/0224-basic-calculator) |
 | [0781-rabbits-in-forest](https://github.com/Jishnu017/DSA-Practice/tree/master/0781-rabbits-in-forest) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Jishnu017/DSA-Practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Recursion
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Jishnu017/DSA-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Jishnu017/DSA-Practice/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/Jishnu017/DSA-Practice/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Jishnu017/DSA-Practice/tree/master/0394-decode-string) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Jishnu017/DSA-Practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Bit Manipulation
