@@ -1,8 +1,8 @@
 class Solution {
-    List<List<Integer>> ans = new ArrayList<>();
+    List<List<Integer>> ans;
 
     public List<List<Integer>> combinationSum(int[] arr, int target) {
-        Arrays.sort(arr);
+        ans=new ArrayList<>();
         bt(0, 0, arr, new ArrayList<>(), target);
         return ans;
     }
