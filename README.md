@@ -250,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Jishnu017/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Jishnu017/DSA-Practice/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
