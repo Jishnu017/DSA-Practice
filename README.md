@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jishnu017/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jishnu017/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jishnu017/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Jishnu017/DSA-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jishnu017/DSA-Practice/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Jishnu017/DSA-Practice/tree/master/0221-maximal-square) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jishnu017/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Jishnu017/DSA-Practice/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Jishnu017/DSA-Practice/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Jishnu017/DSA-Practice/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0948-bag-of-tokens](https://github.com/Jishnu017/DSA-Practice/tree/master/0948-bag-of-tokens) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Jishnu017/DSA-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Jishnu017/DSA-Practice/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jishnu017/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Jishnu017/DSA-Practice/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Jishnu017/DSA-Practice/tree/master/0224-basic-calculator) |
 | [0781-rabbits-in-forest](https://github.com/Jishnu017/DSA-Practice/tree/master/0781-rabbits-in-forest) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Jishnu017/DSA-Practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
