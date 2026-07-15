@@ -257,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Jishnu017/DSA-Practice/tree/master/1291-sequential-digits) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Jishnu017/DSA-Practice/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
