@@ -10,8 +10,8 @@
  */
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        ListNode l=new ListNode(0);
-        ListNode r=new ListNode(0);
+        ListNode l=new ListNode();
+        ListNode r=new ListNode();
         ListNode lt=l;
         ListNode rt=r;
         while(head!=null){
