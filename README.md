@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Jishnu017/DSA-Practice/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/Jishnu017/DSA-Practice/tree/master/0312-burst-balloons) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jishnu017/DSA-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Jishnu017/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0611-valid-triangle-number](https://github.com/Jishnu017/DSA-Practice/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Jishnu017/DSA-Practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jishnu017/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jishnu017/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Jishnu017/DSA-Practice/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Jishnu017/DSA-Practice/tree/master/0224-basic-calculator) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Jishnu017/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0781-rabbits-in-forest](https://github.com/Jishnu017/DSA-Practice/tree/master/0781-rabbits-in-forest) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Jishnu017/DSA-Practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Recursion
