@@ -273,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Jishnu017/DSA-Practice/tree/master/0177-nth-highest-salary) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Jishnu017/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
